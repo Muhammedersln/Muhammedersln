@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Muhammed Eraslan</h1>
-<h3 align="center">Tutkulu bir ön yüz geliştiricisiyim ve daha fazlasını öğrenmeye çalışıyorum.</h3>
+<h3 align="center">Tutkulu bir ön yüz geliştiricisiyim ve daha fazlasını öğrenmeye çalışıyorum. </h3>
 
 - 🌱 Ben şu anda öğreniyor **React-Next.js**
 
