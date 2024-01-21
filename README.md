@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Eraslan</h1>
 <h3 align="center">I'm a passionate frontend developer and trying to learn more.</h3>
 
-- 🌱 I’m currently learning **React-Next.js**
+- 🌱 I’m currently learning Backend
 
 - 📫 How to reach me **muhammed.ersln@icloud.com**
 
